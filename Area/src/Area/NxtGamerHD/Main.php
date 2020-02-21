@@ -4,7 +4,7 @@ namespace Area\NxtGamerHD;
 
 use pocketmine\Server;
 use pocketmine\Player;
-use pocketmine\events\Listener;
+use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase implements Listener {
